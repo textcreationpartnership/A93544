@@ -1,0 +1,295 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Lord Marquesse of Hertford, his letter, sent to the Queen in Holland. Also a letter from the committee in Sommersetshire, to the Houses of Parliament, with a copy of their message to Marquesse Hertford, and his men assembled in arms at Shepton-Mallet, his answer thereunto, and their resolution upon the same. Likewise the information that both Houses received from a marchant in Roterdam, relating how divers captains, and other officers upon a letter from the Queen to the Prince of Orange, are by him discharged, and sent over into England for His Majesties service in the north; and how the papists there have given to the King two hundred thousand pound in mony; with sundry other matters of great concernment. Whereunto is added, certain votes of the Lords and Commons in Parliament, for the apprehending, and bringing up, Sir Ralph Hopton, Master Thomas Smith, Captain John Digby; members of the House of Commons, with Sir Ferdinando Gorges, Sir Francis Dodington, and some others as delinquents. Ordered by the Lords and Commons assembled in Parliament, that these particulars be forthwith printed and published. Joh. Brown, Cler. Parliament.</title>
+            <author>Somerset, William Seymour, Duke of, 1588-1660.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93544</idno>
+            <idno type="STC">Wing S4649</idno>
+            <idno type="STC">Thomason E109_24</idno>
+            <idno type="STC">ESTC R19667</idno>
+            <idno type="EEBO-CITATION">99860717</idno>
+            <idno type="PROQUEST">99860717</idno>
+            <idno type="VID">112842</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93544)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112842)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E109[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Lord Marquesse of Hertford, his letter, sent to the Queen in Holland. Also a letter from the committee in Sommersetshire, to the Houses of Parliament, with a copy of their message to Marquesse Hertford, and his men assembled in arms at Shepton-Mallet, his answer thereunto, and their resolution upon the same. Likewise the information that both Houses received from a marchant in Roterdam, relating how divers captains, and other officers upon a letter from the Queen to the Prince of Orange, are by him discharged, and sent over into England for His Majesties service in the north; and how the papists there have given to the King two hundred thousand pound in mony; with sundry other matters of great concernment. Whereunto is added, certain votes of the Lords and Commons in Parliament, for the apprehending, and bringing up, Sir Ralph Hopton, Master Thomas Smith, Captain John Digby; members of the House of Commons, with Sir Ferdinando Gorges, Sir Francis Dodington, and some others as delinquents. Ordered by the Lords and Commons assembled in Parliament, that these particulars be forthwith printed and published. Joh. Brown, Cler. Parliament.</title>
+                  <author>Somerset, William Seymour, Duke of, 1588-1660.</author>
+                  <author>England and Wales. Parliament. aut</author>
+               </titleStmt>
+               <extent>8, 7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>August 8. London, Printed for Joseph Huscott, and John Wright,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[August 8] 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hopton, Ralph Hopton, --  Baron, 1598-1652.</term>
+               <term>Somerset (England) --  History --  Sources --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112842:1" rendition="simple:additions"/>
+            <p>THE LORD MARQUESSE OF HERTFORD, His Letter, Sent to the QUEEN IN HOLLAND.</p>
+            <p>Alſo a Letter from the Committee in <hi>Sommerſetſhire,</hi> to the Houſes of Parliament, with a Copy of their Meſſage to Marqueſſe HERTFORD, and his men aſſembled in Arms at <hi>Shepton-Mallet,</hi> his Anſwer thereunto, and their Reſolution upon the ſame.</p>
+            <p>Likewiſe the Information that both Houſes received from a Marchant in ROTERDAM, Relating how divers Captains, and other Officers upon a Letter from the Queen to the Prince of <hi>Orange,</hi> are by him diſcharged, and ſent over into <hi>England</hi> for His Majeſties ſervice in the North; And how the Papiſts there have given to the King two hundred thouſand pound in mony; with ſundry other matters of great concernment.</p>
+            <p>Whereunto is added, Certain Votes of the Lords and Commons in Parliament, for the apprehending, and bringing up, Sir <hi>Ralph Hopton,</hi> Maſter <hi>Thomas Smith,</hi> Captain <hi>John Digby;</hi> Members of the Houſe of Commons, With Sir <hi>Ferdinando Gorges,</hi> Sir <hi>Francis Dodington,</hi> and ſome others as Delinquents.</p>
+            <p>Ordered by the Lords and Commons aſſembled in Parliament, That theſe particulars be forthwith Printed and publiſhed.</p>
+            <p>
+               <hi>Joh. Brown, Cler. Parliament.</hi>
+            </p>
+            <p>
+               <hi>Auguſt</hi> 8. <hi>London,</hi> Printed for <hi>Joſeph Hunſcett,</hi> and <hi>John Wright.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:112842:2"/>
+            <pb n="3" facs="tcp:112842:2"/>
+            <opener>
+               <salute>Madam,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Am now (imboldned by Your Maje<g ref="char:EOLhyphen"/>ſties commands) to give You the trouble of a few Lines, which for<g ref="char:EOLhyphen"/>merly I have done with ſome ſcru<g ref="char:EOLhyphen"/>ple, fearing to intrench too much upon Your Majeſties patience. His Majeſties affaires, are now I hop in a proſperous way. And the affections of His People, breaks out every day more and more; who begin to have their eyes open, and will I beleeve no longer be deluded with the imaginary fears and jealouſies.</p>
+            <p>The King takes His journey to morrow towards <hi>Lincolnſhire,</hi> invited thereunto, by a great number of the beſt Gentlemen of that County: The Prince goes with Him, But His Majeſty hath commanded me to return to <hi>York</hi> with the Duke of <hi>York,</hi> where He is to remain untill the King comes back, under the charge of the Lord of <hi>Dorſet,</hi> Becauſe by His M jeſties com<g ref="char:EOLhyphen"/>mands, I am with all ſpeed to repair unto the Weſt, to put His Commiſſions of Array in execution, which I make no doubt to perform without any great difficulty;
+<pb n="4" facs="tcp:112842:3"/>
+If God proſpers Us, as I truſt he will in ſo good a cauſe. We ſhall then ſhortly (I hope) be bleſſed and cheered up with Your Majeſties long wiſhed for preſence, <hi>And hey then down go they;</hi> And to Our greater incourage<g ref="char:EOLhyphen"/>ment, <hi>Sampſon</hi> is come over to us.</p>
+            <p>Madam, Your Majeſty may perceive I hope well, that I preſume to be thus merry with You; But I hope You will pardon it, with all the other errours and pre<g ref="char:EOLhyphen"/>ſumptions of</p>
+            <closer>
+               <salute>MADAM</salute>
+               <signed>Your moſt humble, moſt faithfull, and moſt oblieged Servant, HARTFORD.</signed>
+               <dateline>
+                  <hi>Beverley</hi> 
+                  <date>the 11. of <hi>Iuly,</hi> 1642.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="5" facs="tcp:112842:3"/>
+            <head>THE Copy of a LETTER ſent from the Committee in <hi>Sommerſetſhire,</hi> to both Houſes OF PARLIAMENT.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>Ccording to the commands of both Houſes in your late Inſtructions, for the preſervation of the peace of this County, ſince our Letter to Maſter <hi>Pym,</hi> dated the 29. of <hi>July</hi> in <hi>Bathe,</hi> Where we gave directions for a meeting this day in this Town of <hi>Shepton Mallet,</hi> to iſſue Warrants to ſeverall hundreds, for preſerva<g ref="char:EOLhyphen"/>tion of the peace of this County, requiring them not to obey the Commiſſion of Array, but to be ready from time to time to obey the Ordinance of Parliament, and ſuch farther dir ctions as they ſhould receive from us, according to your In<g ref="char:EOLhyphen"/>ſtructions; but ſo it was, May it pleaſe you, That under pretence of a Petition delivered laſt night to the Lord Marqueſſe of <hi>Hertford,</hi> in the name of ſome of this Town, gotten by the wicked practiſes of theſe Incendiaries, Inhabitants of this Town of <hi>Shepton-Mallet, viz. Richard Board, Hercules Whiting, Nicholas Downton, James
+<pb n="6" facs="tcp:112842:4"/>
+Strode, John Walker,</hi> and <hi>John Coothe</hi> the Parſon, (who alſo did yeſterday read publikely in the Church His Majeſties late Anſwer to your Petition of Pacification,) inſinuating into the people, That our meeting here was to fire their houſes, and make their Streets run with bloud; This morning about eight of the clock, Sir <hi>Ralph Hopton</hi> a companied with Maſter <hi>Thomas Smith,</hi> both Members of your Home, and Sir <hi>Ferdinando Gorges,</hi> Father in Law to Maſter <hi>Thomas Smith,</hi> and a hundred horſe at leaſt, with ſwords, and ſome with Piſtolls, came into the Market place, pretending to read the ſaid Petition: Maſter <hi>William Strode,</hi> one of your Deputy Lievte<g ref="char:EOLhyphen"/>nants, lying that night within a mile of the Town, and having no<g ref="char:EOLhyphen"/>tice of ſome tumult in the Town; Preſently himſelf, and his ſonne, with his ſervants, in all, but four Armed horſe, and two unarmed, came into the Market place, and demanded the reaſon of the tumult; Whereupon the ſaid Sir <hi>Ralph Hopton,</hi> Maſter <hi>Smith,</hi> and Sir <hi>Ferdi<g ref="char:EOLhyphen"/>nando Gorges</hi> came forth to Maſter <hi>Strode,</hi> and required him to alight, and hear a Petition read; to which Maſter <hi>Strode</hi> replyed, That he came not to hear Petitions, but to ſuppreſſe Inſurrections and Tu<g ref="char:EOLhyphen"/>mults, And required as one of the Committee of both Houſes, the ſaid three Gentlemen and the reſt, in the name of the King and Par<g ref="char:EOLhyphen"/>liament, to depart the Town, as they would anſwer it at their perills; Whereupon the ſaid Sir <hi>Ralph Hopton</hi> laid hold upon Ma<g ref="char:EOLhyphen"/>ſter <hi>Strodes</hi> perſon, and his horſe, with the aſſiſtance of Maſter <hi>Smith,</hi> and arreſted Maſter <hi>Strode</hi> of ſuſpition of Treaſon, Endea<g ref="char:EOLhyphen"/>vouring to pull him from his horſe, which he endeavouring to avoyde, Sir <hi>Ferdinando Gorges</hi> ſtrook at him with a Halberd, and dive s of their Cavaliers drew their Swords, and held the points towards his Body, and forced him to alight: and then the ſaid Sir <hi>Ralph Hopton,</hi> Maſter <hi>Smith,</hi> and Sir <hi>Ferdinando Gorges,</hi> laying hands upon him, The ſaid Sir <hi>Ralph Hopton</hi> did their arreſt Maſter <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of high Treaſon: And then the ſaid Sir <hi>Ralph Hopton</hi> read the aboveſaid falſe and ſcandalous Petition, and called for men to make it good; but there only appeared the aboveſaid <hi>Nicholas Downton,</hi> which they <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> M ſter <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> to take notice of, to which Maſter <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> replyed, That the ſaid <hi>Downton</hi> was one of the Incen<g ref="char:EOLhyphen"/>diaries
+<pb n="7" facs="tcp:112842:4"/>
+of the ſaid Town, as they were of the County, and of the Parliament; and did again require them in the Name of the King and both Houſes of Parliament, to depart the Town, and bid the people obey the King as he was guided and counſelled by the Parli<g ref="char:EOLhyphen"/>ament, and not as he was guid d and counſelled by evill Counſel<g ref="char:EOLhyphen"/>lors, from whom came this Commiſſion of Array, both illegall, and deſtructive to the Kingdom: then they commanded the Conſtable to take charge of M <hi>Strode,</hi> who deſired them that he might go with them to the Marqueſſe; and in this paſſage, word was brought to Sir <hi>Ralph Hopton</hi> that the Countrey was coming in upon him; whereupon they ſeeming to be amazed, and ſevering themſelves, went down the Street, and took horſe and rid to the Swan at the other end of Town, the place appointed to meet the other Deputy-Lievtenants, but none were yet come; whereupon he rid out of the Town to meet ſome of them, having ſet a good Guard for the ſafety of the Town (we had forgot to tell you that whilſt Maſter <hi>Strode</hi> was in their power, one of their Cavaliers bent a Piſtoll on one of Maſter <hi>Strodes</hi> ſervants) Neer unto the Towns end Maſter <hi>Strode</hi> met ſome others of his fellow Deputy-Lievtenants, with their Company, to whom he related what had paſſed: whereupon they all went with their Company into the Town, and up to the Market-place, whence Sir <hi>Ralph Hopton,</hi> Maſter <hi>Smith,</hi> and Sir <hi>Ferdinando Gorges,</hi> and their Company were departed, and gone in haſte a mile out of the Town, and with them all the Incendiaries above named, together with one <hi>Tho. Strode,</hi> a new Captain of Sir <hi>Ed. Rodneys,</hi> where they endeavoured to raiſe all the Country about them, to ſurpriſe us, and did raiſe many men, and divided themſelves in Troops or Companies, having ſent both over-night and that morning poſt to <hi>Sherborn,</hi> to Captain <hi>John Digby,</hi> to bring his Troop of Horſe to aſſiſt them, which he did ac<g ref="char:EOLhyphen"/>cordingly: but meeting about three miles from this Town ſome of their own Troops, he was adviſed to leave <hi>Shepton,</hi> and go to <hi>Wells,</hi> which he did, with his Troops. In the mean time we the Deputy-Lievtenants having ſeen the Town all in quiet and peace, went with our Company to our place of meeting, there to perſue our buſineſſe, which we did the beſt way we could: But the Countrey hearing
+<pb n="8" facs="tcp:112842:5"/>
+how we were like to be ſurpriſed, came in without Warrants or any <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of ours, with ſuch diligence and affection, both Horſe and Foot, that before noon were above 2000 Horſe, though moſt un<g ref="char:EOLhyphen"/>a med, and about 100 Foot; our Scouts bringing us word very fre<g ref="char:EOLhyphen"/>quently how they ſurpriſed the Countrey-men coming to us, la<g ref="char:EOLhyphen"/>boured to encreaſe their fears, beat and wounded His Majeſties Sub<g ref="char:EOLhyphen"/>j cts, took away their Powder, Bullets, and other proviſion they br ught to aſſiſt us. We thought it fit to draw into the Field, and put in order our people, the beſt we could to preſerve the peace of the Countrey, where we publikely made our Inſtructions: and M<hi rend="sup">r</hi> 
+               <hi>Henry <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> eldeſt ſon to the high Sheriff, having his fath rs Au<g ref="char:EOLhyphen"/>thority (himſelf being weak and ſickly) was come to us, and c m<g ref="char:EOLhyphen"/>manded as <hi>Poſse Comitatus,</hi> all that were preſent, and the whole Country, to aſſiſt us for the ſervice of the King and Parliament, and preſerving the peace of the County, which the people with great Acclamation proteſted to obey. There was brought unto us a man <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and we believe mortally wounded, by one of Sir <hi>Ralph <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> Cavaliers, and robbed of his Powder and Bullets, with ma<g ref="char:EOLhyphen"/>ny other Complaints, too much to trouble you withall: And three of the Troops being in our eye, we thought fit to ſend them the enclo<g ref="char:EOLhyphen"/>ſed Meſſage by Maſter <hi>William Long,</hi> and Maſter <hi>Lawrence Bull,</hi> two honeſt Gentlemen of our County: whereunto is added their anſwer, and the Marqueſſe is kinde of Propoſition, with our anſwer to it, which we humbly refer to your peruſall; and when our Meſſengers as we <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, might be with them, we began to draw our Company towards them alſo: whereupon they all disbanded in haſte, moſt to<g ref="char:EOLhyphen"/>wards <hi>Wells,</hi> and ſome to their own houſes. And having likewiſe intelligence that the Maior of <hi>Wells</hi> hath delivered, by command of the Marqueſſe, the Keyes of the Magazine there to Sir <hi>Francis Doddington</hi> a Delinquent, and diſarmed divers good and <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Subjects within the Town of <hi>Wells,</hi> and ſeized on di<g ref="char:EOLhyphen"/>vers men their Horſes and Arms that <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as ſtrangers into the Town, and giving out Warrants <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Lord Marqueſſe of HERTFORD, the Lord <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and the Lord of TROVV<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>RID <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their Hands, <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Forces into <hi>Wells,</hi>
+            </p>
+            <p>
+               <pb n="1" facs="tcp:112842:5"/>Wee thought fit to give out our warrants for the muſtering two Regiments, on <hi>Friday</hi> next at <hi>Chewton</hi> upon <hi>Mendip</hi> within three miles of <hi>Wells.</hi> And for the better enabling us to preſerve the peace of the County, we have ſent to the City of <hi>Briſtoll</hi> (who have ſhewed their good affections to us already in this ſervice) for two field peeces of about 6 pound bullet, which wee conceive very neceſſary for the preſent occaſion which as you ſee is dangerous, and therefore we deſire you will ſpeed us the Armes, and helps you have been pleaſed to promiſe us, with what elſe you ſhall thinke fit. And we ſhall be not wanting in our beſt ſervice for the King and Parlia<g ref="char:EOLhyphen"/>ment having had great experience amongſt us al<g ref="char:EOLhyphen"/>ready of Gods great mercy in bowing the peoples hearts to his ſervice, and rayſing their ſpirits to moſt gallant reſolutions for the Defence of the King and Parliament, againſt all oppoſers; for which wee humbly and heartily bleſſe God, and commend the good ſucceſſe of all unto him. And beſeeching your pardon for this tedious relation, which wee conceive very neceſſary, doe remaine.</p>
+            <closer>
+               <signed>
+                  <hi>Yours and the Kingdomes humble ſervants.</hi>
+                  <list>
+                     <item>
+                        <hi>Iohn Horner. Hugh Rogers.</hi>
+                     </item>
+                     <item>
+                        <hi>Alexander Popham. William Strode.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Pym. Richard Coley.</hi>
+                     </item>
+                     <item>
+                        <hi>Ro. Harbyn. Iohn Aſhe.</hi>
+                     </item>
+                  </list>
+               </signed>
+               <dateline>Shepton malet the firſt of <date>
+                     <hi>Auguſt.</hi> 1642.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letters">
+            <pb n="2" facs="tcp:112842:6"/>
+            <head>Munday the <hi>1.</hi> of Auguſt.</head>
+            <p>THe Meſſage of the Members of the Houſe of Commons, and the Deputy-Lieutenants, the Committee of both Houſes of Parliament, for the preſervation of the peace of the County of <hi>Somerſet</hi> ſent to Troopers, and divers men in Armes gathered in bodies in the fields about <hi>Shepton mallet,</hi> by M. <hi>Bull</hi> and M. <hi>Long.</hi>
+            </p>
+            <p>Requiring them to demand of thoſe Troopers and armed men the intention of their comming; and if it were for peace, then that they ſhould returne home to their houſes if not, that then they would take it as an inſurrection; and en<g ref="char:EOLhyphen"/>deavour to repreſſe it.</p>
+            <p>Mr. <hi>Bull,</hi> and <hi>M. Long</hi> comming with the meſſage, they found theſe Troopers and Armed men, &amp;c. commanded by Sir <hi>Ralph Hopton,</hi> and <hi>M. Tho. Smith,</hi> to whom they delivered the meſſage; who told them they could not give them any anſwer till they had ſpoken with the Marqueſſe, and deſired the two Gentlemen to goe to <hi>Wels</hi> to him, and then the ſaid Sir <hi>Ralph Hopton,</hi> and <hi>M. Smith</hi> would goe with them, which they did.</p>
+            <p>And then the Lord Marqueſſe of <hi>Hertford</hi> gave them this anſwer in writing by Sir <hi>Ralph Hopton.</hi>
+            </p>
+            <floatingText type="letter">
+               <body>
+                  <pb n="3" facs="tcp:112842:6"/>
+                  <p>My Lord Marqueſſe being informed of a great aſſembly to meet at <hi>Shepton</hi> in Armes this day, not knowing any cauſe of ſuch meeting, ſent me and ſome other Iuſtices of the Peace in order to the peace of this County, to know the cauſe of ſuch meeting, and to prevent the diſturbance of the peace.</p>
+               </body>
+            </floatingText>
+            <p>When they had received the aboveſaid anſwer, the Marqueſſe gave them in writing theſe words under<g ref="char:EOLhyphen"/>written, and deſired anſwer.</p>
+            <floatingText type="letter">
+               <body>
+                  <p>I underſtand there is a great aſſembly of armed men now at <hi>Shepton,</hi> which I conceive is unlawfull, and deſire to know by what au<g ref="char:EOLhyphen"/>thority they are met; for that as yet it ſeems to me a great violation of the peace of this County, and the Kingdome, to appeare ſo armed; and to receive their anſwer.</p>
+               </body>
+            </floatingText>
+            <p>To which the Comittee ſent as followeth:</p>
+            <floatingText type="letter">
+               <body>
+                  <p>After we underſtood that my Lord Mar<g ref="char:EOLhyphen"/>queſſe of <hi>Hertford</hi> came into this Coun<g ref="char:EOLhyphen"/>ty with Companies of Armed men to put in execution the Commiſſion of Array which is illegall, and ſetling himſelfe at <hi>Wels,</hi> whether reſorted many men in Armes, both Horſe and Foot, We to preſerve the peace of this County came this day to <hi>Sheptonmallet.</hi>
+                  </p>
+               </body>
+            </floatingText>
+         </div>
+         <div type="resolution">
+            <pb n="4" facs="tcp:112842:7"/>
+            <head>Die <g ref="char:V">Ʋ</g>eneris <hi>5</hi> Auguſt, <hi>1642.</hi> Reſolved upon the Queſtion by the Lords and Commons in Parliament.</head>
+            <p>THat Sir <hi>Ralph Hopton,</hi> M. <hi>Tho. Smith,</hi> and Captaine <hi>Iohn Digby</hi> ſhall be diſabled to ſit as Members of the Houſe of Commons during this Parliament.</p>
+            <p>
+               <hi>Reſolved, &amp;c.</hi>
+            </p>
+            <p>That Captaine <hi>Iohn Digby</hi> be forthwith ſent for as Delinquent.</p>
+            <p>
+               <hi>Reſolved, &amp;c.</hi>
+            </p>
+            <p>That Sir <hi>Ralph Hopton,</hi> Mr. <hi>Tho. Smith,</hi> Sir <hi>Ferdinand Gorges,</hi> and Sir <hi>Francis Dodington</hi> be forthwith ſent for as Delinquents.</p>
+            <p>
+               <hi>Reſolved, &amp;c.</hi>
+            </p>
+            <p>That <hi>Richard Board, Hercules Whiting, Ni<g ref="char:EOLhyphen"/>cholas Dounton, Iames Stroud, Iohn Walker,</hi> and <hi>Iohn Cooth</hi> the Parſon of <hi>Shepton-mallet</hi> be forthwith ſent for as Delinquents.</p>
+            <p>
+               <hi>ORDERED,</hi>
+            </p>
+            <p>THat the High Sheriffe of the County of <hi>Somerſet,</hi> and the Deputy-Lieutenants, and Comittees of the ſame County, and the Forces that ſhall be ſent downe to the aſſiſtance of the ſaid Deputy-Lieutenants, and Comittee, be all required to uſe their beſt endeavours for the appre<g ref="char:EOLhyphen"/>hending and ſending up to the Parliament the Delinquents voted of that County.</p>
+         </div>
+         <div type="testimony">
+            <pb n="5" facs="tcp:112842:7"/>
+            <head>
+               <hi>Auguſt</hi> 5. 1642.</head>
+            <p>A Merchant living at <hi>Roterdam</hi> ſaith, that he came from the <hi>Brill</hi> in <hi>Holland</hi> upon Monday laſt, and that when he was there he ſaw two Captains, <hi>viz.</hi> Capt. <hi>Padget,</hi> (as they told him his name to be) and Cap. <hi>Ger<g ref="char:EOLhyphen"/>rard,</hi> who were newly come hither from the <hi>Haghe,</hi> and were diſcharged (as this infor<g ref="char:EOLhyphen"/>mant was there told) by the Prince of <hi>O<g ref="char:EOLhyphen"/>renge,</hi> to the end they might repaire into the North of <hi>England</hi> to ſerve the King; and ſaith, that there were divers other Lieute<g ref="char:EOLhyphen"/>nants and Officers there that were alſo forthwith to come into <hi>England</hi> for the ſame purpoſe (as this informant was there told) and ſhould have come over with this in<g ref="char:EOLhyphen"/>formant in the ſame Ship, but that it was to come to <hi>London.</hi>
+            </p>
+            <p>This informant heard alſo, that M. <hi>Jer<g ref="char:EOLhyphen"/>myn</hi> went from the <hi>Haghe</hi> to the States lea<g ref="char:EOLhyphen"/>guer neere to <hi>Rhine-berck</hi> towards <hi>Cullen,</hi> in the Queens Coach to the Prince of <hi>Orenge,</hi>
+               <pb n="6" facs="tcp:112842:8"/>
+(by whom he was royally entertained) with the Queens Letters to him, which contained the names of ſuch Officers, as ſhe had prick<g ref="char:EOLhyphen"/>ed, and deſired the Pr. of <hi>Oringe</hi> to diſcharge them, that they might come into <hi>England</hi> to ſerve the King. This informant heard there alſo, that the Papiſts in <hi>Holland</hi> and <hi>Frizeland</hi> had lent the King 200000. <abbr>l.</abbr> And he ſaith alſo, that he ſaw at the <hi>Briell,</hi> two veſſells (<hi>viz</hi> a Pinke and a Boyer) laden with Powder, Muskets, and other ammunition, the one whereof went for <hi>Scarborough,</hi> and the other pretended to goe for <hi>Ireland;</hi> and that Maſter <hi>Knolles</hi> (a ſervant of the Kings) went in that boyer.</p>
+            <p>Alſo this informant knoweth, that Maſter <hi>Jermine</hi> came to hire a Cole-ſhip of <hi>Scarborough</hi> being at <hi>Roterdam,</hi> and of about an 150 tunne, to carry over certaine amuni<g ref="char:EOLhyphen"/>tion into the North of <hi>England;</hi> and the Ma<g ref="char:EOLhyphen"/>ſter of the Ship told this informant, that when the bargaine was made with him by Maſter <hi>Jermine</hi> for the hire of that Ship, Maſter <hi>Jermine</hi> told him, it was to carry over Letters into <hi>England,</hi> but when the Maſter underſtood that it was hired to carry over
+<pb n="7" facs="tcp:112842:8"/>
+Ammunition, he would not ſtand to his bar<g ref="char:EOLhyphen"/>gaine He ſaith further, that upon Munday was ſevennight, newes was brought from <hi>Fluſhing</hi> to <hi>Roterdam,</hi> that the States Admi<g ref="char:EOLhyphen"/>rall had taken nine <hi>Engliſh</hi> ſhips, which were going into <hi>Dunkerk,</hi> and ſent them to <hi>Fluſh<g ref="char:EOLhyphen"/>ing,</hi> becauſe he found they carried cordage and Ammunition, and that they ſayd, they had one of the Kings ſhips to convoy them; He ſaith alſo, that he heard it credibly re<g ref="char:EOLhyphen"/>ported there, that young Maſter <hi>Griffith</hi> having beene at <hi>Paris</hi> to ſeeke Maſter <hi>Jer<g ref="char:EOLhyphen"/>mine,</hi> and not finding him there, came to him to the <hi>Haghe,</hi> where Maſter <hi>Griffith</hi> cha<g ref="char:EOLhyphen"/>lenged Maſter <hi>Jermine</hi> into the Field, and Maſter <hi>Iermine</hi> tooke <hi>Oneale</hi> to bee his ſe<g ref="char:EOLhyphen"/>cond, and Maſter <hi>Griffith</hi> had a <hi>Scottiſhman</hi> for his; and a <hi>Frenchman</hi> parted them.</p>
+            <p>Hee ſaith alſo, that Prince <hi>Robert</hi> is at <hi>Helvore</hi>-ſluce, ready to come overwith the firſt wind, in the vice-Admirall of <hi>Holland;</hi> the ſhip came from the <hi>Briell</hi> on munday laſt to goe to <hi>Helvore</hi>-ſluce to take him in.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
